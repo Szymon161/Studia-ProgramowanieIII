@@ -32,18 +32,13 @@ namespace Laboratorium6
             var firstNameGenerator = RandomizerFactory.GetRandomizer(new FieldOptionsFirstName());
             var lastNameGenerator = RandomizerFactory.GetRandomizer(new FieldOptionsLastName());
 
-            var people = Enumerable.Range(1, 100)
+            var people = Enumerable.Range(1, 30)
                 .Select(x => new Person(idGenerator.Generate().Value, firstNameGenerator.Generate(), lastNameGenerator.Generate()))
                 .ToList();
             
             Console.WriteLine($"Number of people: {people.Count()}\nID's average: {people.Select(x => x.Id).Average()}\n");
 
-            people.Where(x => x.Surname[0] == 'B' || x.Surname[0] == 'C' || x.FirstName[0] == 'J')
-                .Select(x => x.Surname + ' ' + x.FirstName)
-                .OrderBy(x => x)
-                .ThenBy(x => x)
-                .ToList()
-                .ForEach(Console.WriteLine);
+            people.OrderBy(x => x.Surname).ThenBy(x => x.FirstName).ToList().ForEach(Console.WriteLine);
 
             Console.ReadKey();
         }
