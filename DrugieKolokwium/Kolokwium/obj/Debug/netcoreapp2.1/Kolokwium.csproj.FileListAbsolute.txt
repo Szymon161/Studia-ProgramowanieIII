@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\DrugieKolokwium\Kolokwium\bin\Debug\netcoreapp2.1\Kolokwium.deps.json
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\DrugieKolokwium\Kolokwium\bin\Debug\netcoreapp2.1\Kolokwium.runtimeconfig.json
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\DrugieKolokwium\Kolokwium\bin\Debug\netcoreapp2.1\Kolokwium.runtimeconfig.dev.json
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\DrugieKolokwium\Kolokwium\bin\Debug\netcoreapp2.1\Kolokwium.dll
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\DrugieKolokwium\Kolokwium\bin\Debug\netcoreapp2.1\Kolokwium.pdb
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\DrugieKolokwium\Kolokwium\obj\Debug\netcoreapp2.1\Kolokwium.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\DrugieKolokwium\Kolokwium\obj\Debug\netcoreapp2.1\Kolokwium.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\DrugieKolokwium\Kolokwium\obj\Debug\netcoreapp2.1\Kolokwium.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\DrugieKolokwium\Kolokwium\obj\Debug\netcoreapp2.1\Kolokwium.AssemblyInfo.cs
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\DrugieKolokwium\Kolokwium\obj\Debug\netcoreapp2.1\Kolokwium.dll
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\DrugieKolokwium\Kolokwium\obj\Debug\netcoreapp2.1\Kolokwium.pdb

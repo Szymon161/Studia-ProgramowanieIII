@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\Laboratorium10\PlikiTekstowe\bin\Debug\netcoreapp2.1\PlikiTekstowe.deps.json
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\Laboratorium10\PlikiTekstowe\bin\Debug\netcoreapp2.1\PlikiTekstowe.runtimeconfig.json
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\Laboratorium10\PlikiTekstowe\bin\Debug\netcoreapp2.1\PlikiTekstowe.runtimeconfig.dev.json
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\Laboratorium10\PlikiTekstowe\bin\Debug\netcoreapp2.1\PlikiTekstowe.dll
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\Laboratorium10\PlikiTekstowe\bin\Debug\netcoreapp2.1\PlikiTekstowe.pdb
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\Laboratorium10\PlikiTekstowe\obj\Debug\netcoreapp2.1\PlikiTekstowe.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\Laboratorium10\PlikiTekstowe\obj\Debug\netcoreapp2.1\PlikiTekstowe.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\Laboratorium10\PlikiTekstowe\obj\Debug\netcoreapp2.1\PlikiTekstowe.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\Laboratorium10\PlikiTekstowe\obj\Debug\netcoreapp2.1\PlikiTekstowe.AssemblyInfo.cs
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\Laboratorium10\PlikiTekstowe\obj\Debug\netcoreapp2.1\PlikiTekstowe.dll
+C:\Users\student\Desktop\Programowanie\Studia-ProgramowanieIII\Laboratorium10\PlikiTekstowe\obj\Debug\netcoreapp2.1\PlikiTekstowe.pdb
